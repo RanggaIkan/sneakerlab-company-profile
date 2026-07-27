@@ -118,7 +118,7 @@ export default function BeforeAfterSlider() {
                 {/* ── After Image (full width, visible when slider is to the left) ── */}
                 <div className="absolute inset-0 overflow-hidden rounded-[inherit]">
                   <Image
-                    src="/images/after_shoe.png"
+                    src="/images/after_shoe.jpg"
                     alt="After restoration — SNEAKERLAB fully restored pair"
                     fill
                     priority
@@ -148,7 +148,7 @@ export default function BeforeAfterSlider() {
                 >
                   <div className="absolute inset-0" style={{ right: 0 }}>
                     <Image
-                      src="/images/before_shoe.png"
+                      src="/images/before_shoe.jpg"
                       alt="Before restoration — worn-out sneaker condition"
                       fill
                       priority
